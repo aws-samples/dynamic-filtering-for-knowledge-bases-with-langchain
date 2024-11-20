@@ -1,6 +1,11 @@
 Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 SPDX-License-Identifier: MIT-0
 
+# Getting started
+
+All of the code is in the code.ipynb notebook. You will need an AWS account to run the notebook. Further details are provided in the notebook itself.
+All the data needed to run the code is provided in this repository.
+
 # Introduction
 
 [Knowledge Bases for Amazon Bedrock](https://aws.amazon.com/bedrock/knowledge-bases/) offers a fully managed Retrieval-Augmented Generation (RAG) feature that connects large language models (LLMs) to internal data sources. It is a cost-effective approach to improving LLM output so it remains relevant, accurate, and useful in various contexts. It also provides developers with greater control over the LLM’s outputs, including the ability to include citations and manage sensitive information.
