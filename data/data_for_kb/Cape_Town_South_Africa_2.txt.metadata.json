@@ -1,0 +1,39 @@
+{
+    "metadataAttributes": {
+        "age": [
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33"
+        ],
+        "desired_destination": "Cape Town, South Africa",
+        "stay_duration": "unknown",
+        "preferred_month": [
+            "unknown"
+        ],
+        "activities_interest": [
+            "museum",
+            "market",
+            "restaurant",
+            "bar",
+            "tour",
+            "attractions",
+            "cultural attractions",
+            "cafes",
+            "hiking",
+            "cultural experiences"
+        ],
+        "companion": "families with children",
+        "travelling_with_children": "yes",
+        "travelling_with_pets": "no"
+    }
+}

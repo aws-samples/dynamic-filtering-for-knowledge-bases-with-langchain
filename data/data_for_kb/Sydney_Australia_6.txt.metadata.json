@@ -1,0 +1,37 @@
+{
+    "metadataAttributes": {
+        "age": [
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33"
+        ],
+        "desired_destination": "Sydney, Australia",
+        "stay_duration": "unknown",
+        "preferred_month": [
+            "unknown"
+        ],
+        "activities_interest": [
+            "market",
+            "restaurant",
+            "bar",
+            "tour",
+            "nightlife",
+            "attractions",
+            "hiking",
+            "gardens"
+        ],
+        "companion": "couples",
+        "travelling_with_children": "no",
+        "travelling_with_pets": "no"
+    }
+}

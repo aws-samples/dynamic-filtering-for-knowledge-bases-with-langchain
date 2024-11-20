@@ -1,0 +1,35 @@
+{
+    "metadataAttributes": {
+        "age": [
+            "43",
+            "44",
+            "45",
+            "46",
+            "47",
+            "48",
+            "49",
+            "50",
+            "51",
+            "52",
+            "53"
+        ],
+        "desired_destination": "New York, USA",
+        "stay_duration": "unknown",
+        "preferred_month": [
+            "unknown"
+        ],
+        "activities_interest": [
+            "museum",
+            "park",
+            "restaurant",
+            "tour",
+            "show",
+            "event",
+            "attractions",
+            "cafes"
+        ],
+        "companion": "senior citizens",
+        "travelling_with_children": "no",
+        "travelling_with_pets": "no"
+    }
+}

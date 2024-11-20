@@ -1,0 +1,31 @@
+{
+    "metadataAttributes": {
+        "age": [
+            "43",
+            "44",
+            "45",
+            "46",
+            "47",
+            "48",
+            "49",
+            "50",
+            "51",
+            "52",
+            "53"
+        ],
+        "desired_destination": "Lisbon, Portugal",
+        "stay_duration": "unknown",
+        "preferred_month": [
+            "unknown"
+        ],
+        "activities_interest": [
+            "restaurant",
+            "bar",
+            "show",
+            "nightlife"
+        ],
+        "companion": "families with children",
+        "travelling_with_children": "yes",
+        "travelling_with_pets": "no"
+    }
+}

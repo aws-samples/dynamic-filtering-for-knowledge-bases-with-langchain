@@ -1,0 +1,37 @@
+{
+    "metadataAttributes": {
+        "age": [
+            "53",
+            "54",
+            "55",
+            "56",
+            "57",
+            "58",
+            "59",
+            "60",
+            "61",
+            "62",
+            "63"
+        ],
+        "desired_destination": "Sydney, Australia",
+        "stay_duration": "unknown",
+        "preferred_month": [
+            "unknown"
+        ],
+        "activities_interest": [
+            "museum",
+            "market",
+            "restaurant",
+            "bar",
+            "tour",
+            "exhibit",
+            "show",
+            "attractions",
+            "cafes",
+            "gardens"
+        ],
+        "companion": "travelers with pets",
+        "travelling_with_children": "no",
+        "travelling_with_pets": "yes"
+    }
+}

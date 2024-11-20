@@ -1,0 +1,36 @@
+{
+    "metadataAttributes": {
+        "age": [
+            "33",
+            "34",
+            "35",
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43"
+        ],
+        "desired_destination": "Hong Kong, Hong Kong",
+        "stay_duration": "unknown",
+        "preferred_month": [
+            "unknown"
+        ],
+        "activities_interest": [
+            "museum",
+            "park",
+            "market",
+            "restaurant",
+            "bar",
+            "exhibit",
+            "show",
+            "attractions",
+            "theme park"
+        ],
+        "companion": "travelers with pets",
+        "travelling_with_children": "no",
+        "travelling_with_pets": "yes"
+    }
+}
