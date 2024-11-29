@@ -1,7 +1,7 @@
 [
     {
         "trip_id": 1,
-        "desired_destination": "Amsterdam, Netherlands",
+        "desired_destination": "Bali, Indonesia",
         "stay_duration": 7,
         "age": 35,
         "gender": "male",
@@ -21,7 +21,7 @@
     },
     {
         "trip_id": 3,
-        "desired_destination": "Prague, Czech Republic",
+        "desired_destination": "Queenstown, New Zealand",
         "stay_duration": 7,
         "age": 45,
         "gender": "male",
@@ -31,7 +31,7 @@
     },
     {
         "trip_id": 4,
-        "desired_destination": "Vienna, Austria",
+        "desired_destination": "New York City, United States",
         "stay_duration": 14,
         "age": 29,
         "gender": "female",
@@ -41,7 +41,7 @@
     },
     {
         "trip_id": 5,
-        "desired_destination": "Tokyo, Japan",
+        "desired_destination": "Maldives",
         "stay_duration": 7,
         "age": 26,
         "gender": "female",
@@ -51,7 +51,7 @@
     },
     {
         "trip_id": 6,
-        "desired_destination": "Buenos Aires, Argentina",
+        "desired_destination": "Machu Picchu, Peru",
         "stay_duration": 5,
         "age": 42,
         "gender": "male",
@@ -61,7 +61,7 @@
     },
     {
         "trip_id": 7,
-        "desired_destination": "Lisbon, Portugal",
+        "desired_destination": "Dubai, United Arab Emirates",
         "stay_duration": 10,
         "age": 33,
         "gender": "female",
@@ -71,7 +71,7 @@
     },
     {
         "trip_id": 8,
-        "desired_destination": "Istanbul, Turkey",
+        "desired_destination": "London, United Kingdom",
         "stay_duration": 7,
         "age": 25,
         "gender": "male",
@@ -91,7 +91,7 @@
     },
     {
         "trip_id": 10,
-        "desired_destination": "Rome, Italy",
+        "desired_destination": "Cancun, Mexico",
         "stay_duration": 7,
         "age": 39,
         "gender": "male",
