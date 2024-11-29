@@ -1,0 +1,23 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "51",
+      "60"
+    ],
+    "desired_destination": "Reykjavik, Iceland",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "visiting churches",
+      "strolling around the pond",
+      "visiting zoos",
+      "visiting museums",
+      "strolling in the park"
+    ],
+    "companion": "pets",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "yes"
+  }
+}

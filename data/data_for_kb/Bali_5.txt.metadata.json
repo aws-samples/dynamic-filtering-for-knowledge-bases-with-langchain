@@ -1,0 +1,23 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "0-10",
+      "11-20"
+    ],
+    "desired_destination": "Bali, Indonesia",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "water park",
+      "zoo",
+      "bird park",
+      "safari park",
+      "monkey forest"
+    ],
+    "companion": "family",
+    "travelling_with_children": "yes",
+    "travelling_with_pets": "unknown"
+  }
+}

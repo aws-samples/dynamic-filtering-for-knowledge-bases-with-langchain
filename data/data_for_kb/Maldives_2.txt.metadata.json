@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "40"
+    ],
+    "desired_destination": "Maldives",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "beach",
+      "markets",
+      "water sports",
+      "resorts"
+    ],
+    "companion": "pet",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "yes"
+  }
+}

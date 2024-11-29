@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "30"
+    ],
+    "desired_destination": "Cancun, Mexico",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "tourist attraction",
+      "beach",
+      "adventure",
+      "nature",
+      "culture"
+    ],
+    "companion": "solo",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "unknown"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "desired_destination": "Queenstown, New Zealand",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "gondola ride",
+      "luge ride",
+      "scenic flight",
+      "bungee jumping",
+      "jet boating",
+      "wine tasting"
+    ],
+    "companion": "spouse",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "unknown"
+  }
+}

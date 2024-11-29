@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "11-20"
+    ],
+    "desired_destination": "New York City, United States",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "museums",
+      "sightseeing",
+      "comedy clubs",
+      "parks"
+    ],
+    "companion": "none",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "no"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "30"
+    ],
+    "desired_destination": "Rome, Italy",
+    "stay_duration": "1 week",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "touring historical sites",
+      "exploring art museums",
+      "sightseeing",
+      "trying local cuisine"
+    ],
+    "companion": "none",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "unknown"
+  }
+}

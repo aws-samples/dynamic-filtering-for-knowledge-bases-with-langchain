@@ -1,0 +1,28 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "10",
+      "20",
+      "30",
+      "40",
+      "50",
+      "60",
+      "70"
+    ],
+    "desired_destination": "London, United Kingdom",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "museums",
+      "sightseeing",
+      "parks",
+      "zoo",
+      "historical sites"
+    ],
+    "companion": "family",
+    "travelling_with_children": "yes",
+    "travelling_with_pets": "unknown"
+  }
+}

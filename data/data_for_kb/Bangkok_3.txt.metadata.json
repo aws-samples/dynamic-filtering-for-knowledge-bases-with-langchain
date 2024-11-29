@@ -1,0 +1,20 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "30"
+    ],
+    "desired_destination": "Bangkok, Thailand",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "art museum",
+      "park",
+      "market"
+    ],
+    "companion": "pets",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "yes"
+  }
+}

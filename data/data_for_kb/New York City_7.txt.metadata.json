@@ -1,0 +1,23 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "40",
+      "50"
+    ],
+    "desired_destination": "New York City, United States",
+    "stay_duration": "3 days",
+    "preferred_month": [
+      "July"
+    ],
+    "activities_interest": [
+      "romantic activities",
+      "art museums",
+      "outdoor activities",
+      "scenic views",
+      "tourist attractions"
+    ],
+    "companion": "spouse",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "no"
+  }
+}

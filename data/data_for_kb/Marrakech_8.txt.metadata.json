@@ -1,0 +1,29 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49",
+      "50"
+    ],
+    "desired_destination": "Marrakech, Morocco",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "gardens",
+      "outdoor activities",
+      "street markets"
+    ],
+    "companion": "pets",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "yes"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "30"
+    ],
+    "desired_destination": "Bora Bora",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "marine park",
+      "petting zoo",
+      "boat tour",
+      "hike",
+      "animal sanctuary"
+    ],
+    "companion": "dogs",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "yes"
+  }
+}

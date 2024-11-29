@@ -1,0 +1,31 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "desired_destination": "Tokyo, Japan",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "markets",
+      "shrines",
+      "crossings",
+      "gardens",
+      "restaurants"
+    ],
+    "companion": "spouse",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "unknown"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49",
+      "50"
+    ],
+    "desired_destination": "Paris, France",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "strolling",
+      "picnic",
+      "walk or bike ride",
+      "cafes and restaurants",
+      "art galleries and shops"
+    ],
+    "companion": "pet",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "yes"
+  }
+}

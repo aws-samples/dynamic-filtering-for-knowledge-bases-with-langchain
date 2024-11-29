@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "30"
+    ],
+    "desired_destination": "Reykjavik, Iceland",
+    "stay_duration": "1 week",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "spa",
+      "zoo",
+      "museum",
+      "concert hall",
+      "museum"
+    ],
+    "companion": "family",
+    "travelling_with_children": "yes",
+    "travelling_with_pets": "unknown"
+  }
+}

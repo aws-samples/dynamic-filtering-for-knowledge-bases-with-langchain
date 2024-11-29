@@ -1,0 +1,39 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "desired_destination": "Cancun, Mexico",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "swimming with dolphins",
+      "snorkeling",
+      "exploring ancient ruins",
+      "scuba diving",
+      "jet skiing",
+      "snorkeling in the Caribbean Sea",
+      "relaxing on the beach",
+      "building sandcastles",
+      "seeing sculptures",
+      "learning about marine conservation",
+      "touching sea creatures",
+      "watching shows"
+    ],
+    "companion": "family",
+    "travelling_with_children": "yes",
+    "travelling_with_pets": "unknown"
+  }
+}

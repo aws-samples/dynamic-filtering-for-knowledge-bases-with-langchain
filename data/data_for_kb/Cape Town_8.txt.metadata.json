@@ -1,0 +1,23 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "8",
+      "10"
+    ],
+    "desired_destination": "Cape Town, South Africa",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "aquarium",
+      "nature reserve",
+      "botanical garden",
+      "cable car ride",
+      "harbor area"
+    ],
+    "companion": "family",
+    "travelling_with_children": "yes",
+    "travelling_with_pets": "unknown"
+  }
+}

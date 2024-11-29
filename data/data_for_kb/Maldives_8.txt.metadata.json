@@ -1,0 +1,23 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "61",
+      "70"
+    ],
+    "desired_destination": "Maldives",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "snorkeling",
+      "diving",
+      "island hopping",
+      "spa and wellness",
+      "cultural experiences"
+    ],
+    "companion": "unknown",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "unknown"
+  }
+}

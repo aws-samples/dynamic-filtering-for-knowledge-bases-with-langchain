@@ -1,0 +1,26 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "31",
+      "32",
+      "33",
+      "34",
+      "35"
+    ],
+    "desired_destination": "Barcelona, Spain",
+    "stay_duration": "1 week",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "zoo",
+      "aquarium",
+      "history",
+      "architecture",
+      "culture"
+    ],
+    "companion": "family",
+    "travelling_with_children": "yes",
+    "travelling_with_pets": "no"
+  }
+}

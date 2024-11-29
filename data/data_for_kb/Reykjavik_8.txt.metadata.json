@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "30"
+    ],
+    "desired_destination": "Reykjavik, Iceland",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "church",
+      "geothermal spa",
+      "day trip",
+      "street art",
+      "natural phenomenon"
+    ],
+    "companion": "solo",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "unknown"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "61",
+      "70"
+    ],
+    "desired_destination": "New York City, United States",
+    "stay_duration": "1 week",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "art museums",
+      "parks",
+      "walking paths",
+      "lakes",
+      "zoos",
+      "gardens",
+      "castles",
+      "biking",
+      "art installations",
+      "memorials",
+      "museums"
+    ],
+    "companion": "unknown",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "unknown"
+  }
+}

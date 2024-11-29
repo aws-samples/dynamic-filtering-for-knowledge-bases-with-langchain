@@ -1,0 +1,24 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "5",
+      "7"
+    ],
+    "desired_destination": "Queenstown, New Zealand",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "gondola rides",
+      "luge",
+      "gardens",
+      "farm tours",
+      "hike",
+      "mountain biking"
+    ],
+    "companion": "family",
+    "travelling_with_children": "yes",
+    "travelling_with_pets": "unknown"
+  }
+}

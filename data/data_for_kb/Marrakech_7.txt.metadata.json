@@ -1,0 +1,32 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "desired_destination": "Marrakech, Morocco",
+    "stay_duration": "1 week",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "gardens",
+      "natural history museum",
+      "street markets",
+      "hiking",
+      "culture"
+    ],
+    "companion": "family",
+    "travelling_with_children": "yes",
+    "travelling_with_pets": "no"
+  }
+}

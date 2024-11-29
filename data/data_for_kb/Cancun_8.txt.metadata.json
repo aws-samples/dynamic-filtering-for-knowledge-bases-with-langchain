@@ -1,0 +1,38 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "desired_destination": "Cancun, Mexico",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "eco-archaeological park",
+      "swimming with dolphins",
+      "snorkeling in underground rivers",
+      "visiting ancient Mayan ruins",
+      "animal sanctuary",
+      "cultural shows",
+      "swimming",
+      "scuba diving",
+      "jet skiing",
+      "snorkeling tour",
+      "nightlife"
+    ],
+    "companion": "family",
+    "travelling_with_children": "yes",
+    "travelling_with_pets": "unknown"
+  }
+}

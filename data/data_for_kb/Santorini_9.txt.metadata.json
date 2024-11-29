@@ -1,0 +1,23 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "11",
+      "20"
+    ],
+    "desired_destination": "Santorini, Greece",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "scenic views",
+      "sunsets",
+      "hiking",
+      "history",
+      "boat tours"
+    ],
+    "companion": "solo",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "unknown"
+  }
+}

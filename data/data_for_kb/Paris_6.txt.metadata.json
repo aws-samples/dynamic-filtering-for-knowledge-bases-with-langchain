@@ -1,0 +1,23 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "71",
+      "80"
+    ],
+    "desired_destination": "Paris, France",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "museums",
+      "palaces",
+      "strolling",
+      "boat tours",
+      "neighborhood tours"
+    ],
+    "companion": "unknown",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "unknown"
+  }
+}

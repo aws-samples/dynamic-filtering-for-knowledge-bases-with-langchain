@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "21",
+      "30"
+    ],
+    "desired_destination": "London, United Kingdom",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "museum",
+      "park",
+      "art gallery",
+      "ferris wheel"
+    ],
+    "companion": "solo",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "unknown"
+  }
+}

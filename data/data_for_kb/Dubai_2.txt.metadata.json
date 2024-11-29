@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "71",
+      "80"
+    ],
+    "desired_destination": "Dubai, United Arab Emirates",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "shopping",
+      "sightseeing",
+      "culture",
+      "adventure"
+    ],
+    "companion": "spouse",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "no"
+  }
+}

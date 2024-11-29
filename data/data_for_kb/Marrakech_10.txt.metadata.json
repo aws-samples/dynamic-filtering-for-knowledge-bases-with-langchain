@@ -1,0 +1,23 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "21-30",
+      "31-40"
+    ],
+    "desired_destination": "Marrakech",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "gardens",
+      "museums",
+      "historical_sites",
+      "street_markets",
+      "local_food"
+    ],
+    "companion": "family",
+    "travelling_with_children": "yes",
+    "travelling_with_pets": "no"
+  }
+}
