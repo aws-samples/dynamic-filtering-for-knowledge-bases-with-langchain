@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "61",
+      "71",
+      "81"
+    ],
+    "desired_destination": "Bora Bora, French Polynesia",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "water activities",
+      "cultural tours",
+      "relaxation"
+    ],
+    "companion": "unknown",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "unknown"
+  }
+}

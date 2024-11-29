@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "30",
+      "40"
+    ],
+    "desired_destination": "London, United Kingdom",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "parks",
+      "museums",
+      "markets",
+      "pubs"
+    ],
+    "companion": "pet",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "yes"
+  }
+}

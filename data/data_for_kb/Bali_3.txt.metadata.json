@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "30"
+    ],
+    "desired_destination": "Bali, Indonesia",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "animal shelter",
+      "bird park",
+      "petting zoo",
+      "beach"
+    ],
+    "companion": "pets",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "yes"
+  }
+}

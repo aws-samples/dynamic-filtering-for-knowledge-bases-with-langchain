@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "30"
+    ],
+    "desired_destination": "Cape Town, South Africa",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "hiking",
+      "nature reserve",
+      "waterfront",
+      "table mountain",
+      "neighborhood walking tour"
+    ],
+    "companion": "solo",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "unknown"
+  }
+}

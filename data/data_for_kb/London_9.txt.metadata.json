@@ -1,0 +1,30 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "61",
+      "62",
+      "63",
+      "64",
+      "65",
+      "66",
+      "67",
+      "68",
+      "69",
+      "70"
+    ],
+    "desired_destination": "London, United Kingdom",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "history",
+      "culture",
+      "outdoors",
+      "art"
+    ],
+    "companion": "unknown",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "unknown"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "30"
+    ],
+    "desired_destination": "Dubai, United Arab Emirates",
+    "stay_duration": "a few days",
+    "preferred_month": [
+      "October",
+      "November",
+      "April"
+    ],
+    "activities_interest": [
+      "gardens",
+      "stroll",
+      "kayaking",
+      "paddleboarding",
+      "festivals"
+    ],
+    "companion": "pets",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "yes"
+  }
+}

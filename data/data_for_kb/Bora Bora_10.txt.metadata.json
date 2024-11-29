@@ -1,0 +1,25 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "0-10",
+      "11-20",
+      "31-40"
+    ],
+    "desired_destination": "Bora Bora",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "swimming",
+      "snorkeling",
+      "adventure",
+      "water sports",
+      "cruise",
+      "conservation"
+    ],
+    "companion": "family",
+    "travelling_with_children": "yes",
+    "travelling_with_pets": "unknown"
+  }
+}

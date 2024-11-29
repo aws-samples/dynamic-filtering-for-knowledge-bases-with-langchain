@@ -1,0 +1,31 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "desired_destination": "Bora Bora",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "romantic atmosphere",
+      "snorkeling",
+      "swimming with sharks and stingrays",
+      "4x4 tour",
+      "sunset cruise"
+    ],
+    "companion": "couple",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "unknown"
+  }
+}

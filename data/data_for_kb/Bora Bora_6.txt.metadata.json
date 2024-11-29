@@ -1,0 +1,23 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "11",
+      "20"
+    ],
+    "desired_destination": "Bora Bora",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "snorkeling",
+      "scuba diving",
+      "hiking",
+      "boat tour",
+      "lagoonarium"
+    ],
+    "companion": "solo",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "unknown"
+  }
+}

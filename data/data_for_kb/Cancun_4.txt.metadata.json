@@ -1,0 +1,25 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "51",
+      "60"
+    ],
+    "desired_destination": "Cancun, Mexico",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "snorkeling",
+      "nature",
+      "culture",
+      "adventure",
+      "relaxing on the beach",
+      "shopping",
+      "eating"
+    ],
+    "companion": "unknown",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "no"
+  }
+}
