@@ -1,0 +1,27 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "20",
+      "30"
+    ],
+    "desired_destination": "Tokyo, Japan",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "observation decks",
+      "romantic dinner",
+      "lush forest",
+      "ancient temple",
+      "shopping",
+      "museums",
+      "entertainment venues",
+      "fresh seafood",
+      "Japanese pubs"
+    ],
+    "companion": "couple",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "unknown"
+  }
+}
