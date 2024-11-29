@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "11-20"
+    ],
+    "desired_destination": "Maldives",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "markets",
+      "cruises",
+      "parks",
+      "snorkeling",
+      "museums"
+    ],
+    "companion": "none",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "unknown"
+  }
+}

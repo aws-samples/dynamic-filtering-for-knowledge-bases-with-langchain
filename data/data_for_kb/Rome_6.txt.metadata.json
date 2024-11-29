@@ -1,0 +1,29 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "0-10",
+      "11-20",
+      "21-30",
+      "31-40",
+      "41-50",
+      "51-60",
+      "61-70",
+      "71-80"
+    ],
+    "desired_destination": "Rome, Italy",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "touring historical landmarks",
+      "visiting museums",
+      "throwing coins in fountains",
+      "climbing stairs",
+      "exploring ancient temples"
+    ],
+    "companion": "family",
+    "travelling_with_children": "yes",
+    "travelling_with_pets": "unknown"
+  }
+}

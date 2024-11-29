@@ -1,0 +1,23 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "71",
+      "80"
+    ],
+    "desired_destination": "Queenstown, New Zealand",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "cruise",
+      "hiking",
+      "winery",
+      "scenic view",
+      "shopping"
+    ],
+    "companion": "unknown",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "unknown"
+  }
+}

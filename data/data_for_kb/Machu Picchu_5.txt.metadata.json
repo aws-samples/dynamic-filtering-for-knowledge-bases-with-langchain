@@ -1,0 +1,31 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "61",
+      "62",
+      "63",
+      "64",
+      "65",
+      "66",
+      "67",
+      "68",
+      "69",
+      "70"
+    ],
+    "desired_destination": "Machu Picchu, Peru",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "hiking",
+      "museums",
+      "history",
+      "culture",
+      "nature"
+    ],
+    "companion": "unknown",
+    "travelling_with_children": "no",
+    "travelling_with_pets": "no"
+  }
+}

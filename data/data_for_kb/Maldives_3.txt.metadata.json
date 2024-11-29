@@ -1,0 +1,33 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "desired_destination": "Maldives",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "snorkeling",
+      "scuba diving",
+      "beach activities",
+      "island hopping",
+      "dolphin watching",
+      "local culture"
+    ],
+    "companion": "family",
+    "travelling_with_children": "yes",
+    "travelling_with_pets": "unknown"
+  }
+}

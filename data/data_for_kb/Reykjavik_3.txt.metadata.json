@@ -1,0 +1,21 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "40"
+    ],
+    "desired_destination": "Reykjavik",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "spa",
+      "sightseeing",
+      "museum",
+      "zoo"
+    ],
+    "companion": "family",
+    "travelling_with_children": "yes",
+    "travelling_with_pets": "unknown"
+  }
+}

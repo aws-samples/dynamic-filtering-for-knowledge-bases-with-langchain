@@ -1,0 +1,22 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "40"
+    ],
+    "desired_destination": "Rome, Italy",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "guided tours",
+      "museums",
+      "sightseeing",
+      "shopping",
+      "food"
+    ],
+    "companion": "family",
+    "travelling_with_children": "yes",
+    "travelling_with_pets": "unknown"
+  }
+}

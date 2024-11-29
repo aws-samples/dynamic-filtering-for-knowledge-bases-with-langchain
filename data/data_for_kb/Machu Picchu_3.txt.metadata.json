@@ -1,0 +1,23 @@
+{
+  "metadataAttributes": {
+    "age": [
+      "20",
+      "30",
+      "40"
+    ],
+    "desired_destination": "Machu Picchu, Peru",
+    "stay_duration": "unknown",
+    "preferred_month": [
+      "unknown"
+    ],
+    "activities_interest": [
+      "hiking",
+      "sightseeing",
+      "guided tours",
+      "exploring"
+    ],
+    "companion": "family",
+    "travelling_with_children": "yes",
+    "travelling_with_pets": "no"
+  }
+}
